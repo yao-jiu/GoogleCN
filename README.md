@@ -11,7 +11,7 @@
 ## 一、镜像地址
 
 > **主地址：[mirror.yaojiu.us](https://mirror.yaojiu.us/)  
-> 备用地址：[www.haoo.us/public](https://www.haoo.us/public%5D)**
+> 备用地址：[haoo.us/mirror](https://haoo.us/mirror)**
 
 ## 二、项目说明
 
